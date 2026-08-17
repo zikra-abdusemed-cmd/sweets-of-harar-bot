@@ -67,3 +67,5 @@ Admins also receive order notifications with inline approve/ready buttons.
 - Share the Google Sheet only with trusted admins and the service account.
 - Rotate the Telegram token and service-account key if either is exposed.
 - Run this in a private admin-controlled environment. For production, use a locked-down VPS/container, firewall rules, logs without secrets, and regular dependency updates.
+
+checking if git works
